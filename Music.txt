@@ -1,0 +1,48 @@
+Limitations:	None imparticular, should possibly be reminiscent of late awesome-sounding genesis games, but not the point where it sounds like tinny shit. The audience is mostly joe casual gamer, so it needs to sound good more than retro.
+
+Song 1:
+	Use:	Mostly used in menus, ie. Mode Select, Options, Credits, etc
+	Length:	About one minute, 
+	Mood:	the "I'm occupied until I start playing" mood! Or mostly happy
+	
+Song 2:
+	Use:	Main game melody, this is the song that will be heard the most and should probably be the best
+	Length:	Longest song, 2~3 minutes, needs to not sound too repetitive since it will be heard the most.
+	
+Song 3:
+	Use:	Used near the end of a map, as a "You're almost there, rush back!" type song.
+	Length:	Can be shorter than song 2
+	
+Format: mp3
+	
+Style References:
+	Currently, I'm using songs from Wild ARMs in the game:
+	Song 1:	http://www.youtube.com/watch?v=gRV_A5ZDXyo
+	Song 2:	http://www.youtube.com/watch?v=6MQRL7xws7w
+	Song 3:	http://www.youtube.com/watch?v=uWavlUYnlzE
+	
+	I think each song does fairly well for the moods I want
+	
+	Additional:
+	Song 1:
+		Sonic Pinball party has what I'd call a good menu theme
+		http://www.youtube.com/watch?v=1kBBcSQTDXc&feature=BF&list=PL4ECD6A71B860E597&index=2
+		
+	Song 2:
+		A classic overworld theme, doesnt get old, but is always interesting
+		http://www.youtube.com/watch?v=lpEzYEoV9qY
+		Something more upbeat like this one is also great, and what I'd prefer
+		http://www.youtube.com/watch?v=vW4iViWrkWA
+		
+	Song 3:
+		This is like the second half, and the player needs to know it with music, I considered just speeding up Song 2, but I'd like something a bit more powerful, like the original reference.
+		
+Also, you're the musician, not me, so feel free to use your better judgement with things.
+
+You can find the latest uploaded build of the game here: http://splixel.com/main.swf
+(You should not show this to anybody)
+Press 1 to start the Easy map, 2 to start the Normal map, it has the stolen music still.
+Still unfinished and kinda buggy, but the two maps are completable and may help you.
+The goal of each map is to find the Grail (it glows), and bring it back into your castle. There will be other maps, but they will all use the overworld/chase musics.
+
+If there is anything else you need or any questions, etc, feel free to ask

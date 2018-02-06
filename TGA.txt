@@ -1,0 +1,118 @@
+
+The Great Adventure
+
+Design Document?!
+
+
+Goal of the game
+	Re-create "Adventure", from the atari 2600, in flash. Give it enough modern features that today's gamers would enjoy it.
+
+
+Monetization ?
+	Kongregate Sponsorship + Mochi ads
+	Sell Sponsorship on FlashGameLiscence.com
+	Sell on Steam
+	Sell "Level Packs"
+	Sell a Level Editor
+	Sell the ability to share levels with a level editor
+	
+What is left to do?
+	More than I care to admit! But here is a checklist of everythin that will be done
+
+
+	[X] Classic Easy Map				- 'Easy Map' from the original game (Mode 1)
+	[ ] Classic Normal Map				- 'Normal Map' from the original game (Mode 2)
+	[ ] Remixed Normal Map				- The classic 'Normal Map', with items shuffled around randomly (Mode 3)
+	[ ] New Map 1
+	[ ] New Map 2
+	[ ] New Map 3
+	[ ] New Map 4
+	[ ] New Map 5
+	[ ] New Map 6
+	[ ] New Map 7
+	
+How will this game progress?
+	All maps available in the beginning
+	progress is based on achievements
+	
+	-or-
+	
+	all classic maps available, always, extended maps are available, one after another
+	
+Progress Goals:
+	January 14th:	Engine ironed out, map 1 & 2 perfect	
+	???:			Classic Map 3
+	???:			Achievements
+	???:			Credits
+	???:			7 new maps
+	
+	
+	
+A little about in-game objects
+	Items:
+		[X]	Gold Key
+		[X] Black Key
+		[X] White Key
+		[X] Magnet
+		[X] Sword
+		[X] Bridge
+		[X] Grail
+		
+	Gates:
+		[X] Gold Gate
+		[X] Black Gate
+		[X] White gate
+		
+	Enemies:
+		[X] Green Dragon
+		[X] Yellow Dragon
+		[ ] Red Dragon
+		[ ] Bat
+
+Awards:
+	Each has 4 levels: Lineart, Flat Color, Greyscale, Full Color
+	Need 10 columns, 40 total:
+	
+		Time Wasted:	30 minutes, 1 hour, 2 hours, 4 hours
+		
+		Maps Completed:	2, 4, 6, 8
+		
+		Completionist:	Get 4 Awards, 9 Awards, 19 Awards, 39 Awards
+		
+		Speed:			Complete level 1 in: 60 seconds
+						Complete level 3 in: 90 seconds
+						Complete level 5 in: 210 seconds
+						Complete level 7 in: 90 seconds
+		
+		Death:			Get eaten by a Green dragon, Yellow Dragon, Red Dragon, get eaten 10 times
+		
+		Warrior:		Kill a Green Dragon, Yellow Dragon, Red Dragon, Kill 100 Dragons
+		
+		Special Awards ( 3 Columns ):
+			Murderer:			Killed 6 dragons in one map
+			Pacifist: 			Complete a map without grabbing the sword			
+			Itemer:				Grabbed every item at least Once
+			Minimalist:			Beat a map while only touching keys and the grail
+			
+			Completionist:		Completed every map at least Once
+			Still Alive:		Escaped from the dragon's jaws
+			Awards:				Checked your awards
+			Gotta Try them All:	Played every map
+			
+			Oldie:				Entered the Konami Code (Unlocks all maps)			
+			Curious:			Viewed the credits
+			Gamer:				Visited the sponsor
+			
+		
+Achievements:
+	These make the game slightly more interesting, adding optional goals to already simple gameplay, to encourage replay value
+	Here are some possible achievement ideas:
+		Pacifist		- Beat all maps without killing anything
+		Speed Runner 	- Beat map quickly
+		Completionist	- Beat all maps
+		
+		
+		
+		
+		
+		

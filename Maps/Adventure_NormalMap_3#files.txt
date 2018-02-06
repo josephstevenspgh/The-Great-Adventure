@@ -1,0 +1,4 @@
+Z:\home\joseph\Programming\Flash\adventure\Maps\Adventure_NormalMap_3#tiles.png
+Z:\home\joseph\Programming\Flash\adventure\Maps\Adventure_NormalMap_3.tlc
+Z:\home\joseph\Programming\Flash\adventure\Maps\Adventure_NormalMap_3#map001.txm
+Z:\home\joseph\Programming\Flash\adventure\Maps\Adventure_NormalMap_3#map002.txm
